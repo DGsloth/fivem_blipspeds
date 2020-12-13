@@ -1,27 +1,20 @@
 # fivem_blipspeds
-### Modified by Warden Eternal
+Resource created by [Warden Eternal](https://github.com/TheWardenEternal)
+### Download
+- Download https://github.com/TheWardenEternal/fivem_blipspeds/archive/main.zip
+- Put it in any directory
 
-Required items for current setup
-1. a brain
+### Installation
+- Add this to your `server.cfg`
 
-### How to setup
-1. Drag the script into your server folder
-2. Add "start fivem_blipspeds" into your server.cfg
-3. Start your server
-4. Profit?
+```
+start fivem_blipspeds
+```
 
-### Other Information (blips.lua)
-1. Easily add and remove blips as needed
+### Features
+- Ability to add/remove blips
+- Ability to add ped spawns
+- Ability to add Purge blips (for events)
 
-### Other Information (peds.lua)
-1. Easily add and remove peds as needed
-2. Peds don't die and can't be moved
-
-### Other Information (purgeblips.lua)
-1. Easily add and remove purge blips as needed
-2. For an event duh (if you dont need it, just comment out the entire script)
-
--------------------
-Script is restart friendly (Mainly for the purge blips)
-
-Script is provided as-is. I will not help fix it or maintain it. Other users may make a pull request if they have fixed something and I will try my best to merge it.
+### Information
+I will not provide any kind of support for this addon. If someone makes a pull request to fix something, I may merge it.
