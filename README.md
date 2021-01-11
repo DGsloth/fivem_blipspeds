@@ -1,5 +1,6 @@
 # fivem_blipspeds
 Resource created by [Warden Eternal](https://github.com/TheWardenEternal)
+
 ### Download
 - Download https://github.com/TheWardenEternal/fivem_blipspeds/archive/main.zip
 - Put it in any directory
@@ -10,6 +11,9 @@ Resource created by [Warden Eternal](https://github.com/TheWardenEternal)
 ```
 start fivem_blipspeds
 ```
+
+### Requirements
+- Nothing
 
 ### Features
 - Ability to add/remove blips
