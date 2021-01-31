@@ -3,10 +3,10 @@ Looking for a great gaming community to join? Look no further than [Deceitful Ga
 We're a small (and growing) gaming community founded with the community and it's members in mind. We strive ourselves in being transparent and community driven by our members.
 
 # fivem_blipspeds
-Resource created by [Warden Eternal](https://github.com/TheWardenEternal)
+Resource created by [sloth](https://github.com/DGSloth)
 
 ### Download
-- Download https://github.com/TheWardenEternal/fivem_blipspeds/archive/main.zip
+- Download https://github.com/DGSloth/fivem_blipspeds/archive/main.zip
 - Put it in any directory
 
 ### Installation
