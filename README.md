@@ -1,8 +1,8 @@
 # fivem_blipspeds
-Resource created by [sloth](https://github.com/DGSloth)
+Resource created by [thatsimpressive](https://github.com/thatsimpressive)
 
 ### Download
-- Download https://github.com/DGSloth/fivem_blipspeds/archive/main.zip
+- Download https://github.com/thatsimpressive/fivem_blipspeds/archive/main.zip
 - Put it in any directory
 
 ### Installation
